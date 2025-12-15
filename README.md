@@ -1,1 +1,3 @@
-This repository contains supporting material for the paper Probability of Improvement Criterion Revisited: Applications to Generalized Ranking and Selection.
+## Probability of Improvement Criterion Revisited: Applications to Generalized Ranking and Selection
+
+This repository contains experiments source codes and data for the paper: "Probability of Improvement Criterion Revisited: Applications to Generalized Ranking and Selection".
