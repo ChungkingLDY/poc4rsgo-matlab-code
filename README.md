@@ -44,7 +44,7 @@ To run `plot_spider.m`, users must install the following MATLAB package:
 
 ## References
 
-The benchmark algorithms implemented and evaluated in the experiments are primarily drawn from the following works:
+The benchmark algorithms implemented and evaluated in the experiments are drawn from the following works:
 
 1. Chen, C. H., Lin, J., Yücesan, E., & Chick, S. E. (2000). Simulation budget allocation for further enhancing the efficiency of ordinal optimization. Discrete Event Dynamic Systems, 10(3), 251-270.
 
